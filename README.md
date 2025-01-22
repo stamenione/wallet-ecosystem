@@ -1,4 +1,3 @@
-
 <h1 align="center">
   <br>
   <a href="https://demo.wwwallet.org/"><img src="https://demo.wwwallet.org/static/media/logo.4c2efe036042f9f1f0a8.png" alt="wwWallet" width="150"></a>
@@ -6,7 +5,6 @@
   <br>
 </h1>
 <br>
-
 
 ## Quickstart
 
@@ -24,12 +22,12 @@ git submodule update    #fetch code from all repos
 git submodule update --remote  # to get update all submodules from the remote repos and merge
 ```
 
-
 ## Documentation
 
 Visit https://wwwallet.github.io/wallet-docs/
 
-
 ## Contribution Guidelines
 
 Visit https://wwwallet.github.io/wallet-docs/docs/development-environment-setup/contribution-guidelines
+
+DA LI RADI MAJKU MU
